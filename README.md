@@ -1,70 +1,42 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Digital Business Card
 
-## Available Scripts
+Digital business card for Manahil, built using React and hosted on Netlify. The card displays information about Manahil, including their background and interests, as well as links to their social media profiles.
 
-In the project directory, you can run:
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![App Screenshot](https://github.com/ManahilSiddiqui/DIgital-Card/blob/main/Screenshot/Screenshot.png?raw=true)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Link
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Hosted on Netlify: https://manahil-digital-card.netlify.app/
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get started, you'll need to clone the repository to your local machine. Once you have the code, you can use npm to install the dependencies. Once the dependencies are installed, you can start the development server with the command npm start 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Using the Card
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The card is divided into several sections:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- About: This section provides a brief introduction to Manahil Siddiqui, including their profession and skills.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Interests: This section lists some of Ash Moreno's hobbies and interests.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Footer: This section provides links to Manahil Siddiqui social media profiles, such as LinkedIn and Github.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Customizing the Card
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you would like to use this card for your own purposes, you can easily customize it by editing the code. Be sure to replace Manahil Siddiqui information with your own, and update the links to your own social media profiles. Additionally, you can also add or remove sections and change the styling to suit your own needs.
+## Deployment
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+When you are ready to deploy the card, you can use hosting services like GitHub, Netlify, Firebase and more.
+## Conclusion
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's it! You now have a sleek and modern digital business card that you can share with others. Whether you're a freelancer, entrepreneur, or just want to share your information online, this card is a great way to do it. Thank you for using my project.
